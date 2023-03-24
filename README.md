@@ -16,9 +16,9 @@
 
 ## Hi, frens
 <p>
-  I am an Android Developer based in Kyiv 🇺🇦 Welcome to my account, here you can observe some of my pet projects and other works...
-  :sparkles: Currently diving deeper into Kotlin
-  :sparkles: Learning Unity in free time
+  I am an Android Developer based in Kyiv 🇺🇦 Welcome to my account, here you can observe some of my pet projects and other works...<br>
+  :sparkles: Currently diving deeper into Kotlin<br>
+  :sparkles: Learning Unity in free time<br>
   :sparkles: Make music for fun
 </p>
 
