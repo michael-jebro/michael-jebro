@@ -7,7 +7,7 @@
 <p>
 <div id="main-div" align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,lua,python,linux,idea,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,lua,python,linux,idea,docker,ableton)](https://skillicons.dev)
   
 </div>
 </p>
