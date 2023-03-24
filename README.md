@@ -17,11 +17,9 @@
 ## Hi, frens
 <p>
   I am an Android Developer based in Kyiv 🇺🇦 Welcome to my account, here you can observe some of my pet projects and other works...
-  <ul style="list-style: none">
-    <li> :sparkles: Currently diving deeper into Kotlin </li>
-    <li> :sparkles: Learning Unity in free time </li>
-    <li> :sparkles: Make music for fun </li>
-  </ul>
+    <h1> :sparkles: Currently diving deeper into Kotlin </h1>
+    <h1> :sparkles: Learning Unity in free time </h1>
+    <h1> :sparkles: Make music for fun </h1>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-jebro&show_icons=true&hide_border=true&layout=compact&cache_seconds=7200&theme=tokyonight">
