@@ -4,7 +4,7 @@
 
 <p style="text-align: center;">
 
-<span>
+<span style="display: inline-block;">
   
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,lua,python,linux,idea,ableton)](https://skillicons.dev)
   
