@@ -20,4 +20,4 @@
   Currently diving deeper into Kotlin
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad03day&show_icons=true&hide_border=true&layout=compact&cache_seconds=7200&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-jebro&show_icons=true&hide_border=true&layout=compact&cache_seconds=7200&theme=tokyonight">
