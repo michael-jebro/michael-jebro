@@ -17,5 +17,7 @@
 ## Hi, frens
 <p>
   I am an Android Developer based in Kyiv 🇺🇦 Welcome to my account, here you can observe some of my pet projects and other works...
-  Currently boosting up my Kotlin skills
+  Currently diving deeper into Kotlin
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad03day&show_icons=true&hide_border=true&layout=compact&cache_seconds=7200&theme=tokyonight">
