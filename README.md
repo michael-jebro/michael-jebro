@@ -17,4 +17,5 @@
 ## Hi, frens
 <p>
   I am an Android Developer based in Kyiv 🇺🇦 Welcome to my account, here you can observe some of my pet projects and other works...
+  Currently boosting up my Kotlin skills
 </p>
