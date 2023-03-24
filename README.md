@@ -1,6 +1,6 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap');
+</style> 
 
 <p id="main" style="font-family: 'Comic Neue' " size="5"> michael-jebro software </span>
 <div id="header" align="center">
