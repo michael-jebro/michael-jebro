@@ -4,7 +4,7 @@
 
 <p align="centre">
 
-![![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,lua,python,linux,idea,ableton)](https://skillicons.dev)
+[[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,c,lua,python,linux,idea,ableton)](https://skillicons.dev)]
   
 </p>
 
